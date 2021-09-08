@@ -5,6 +5,7 @@
 Having 10 years of IT experience. Architectured and Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
 🔗 https://medium.com/@sivakumar-mahalingam
+
 🔗 https://www.linkedin.com/in/sivakumar-mahalingam
 
 <!--
