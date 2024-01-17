@@ -1,4 +1,4 @@
-![Alt text]([https://media-exp1.licdn.com/dms/image/C5616AQFoIW0J_0kzXw/profile-displaybackgroundimage-shrink_200_800/0/1630931488966?e=1636588800&v=beta&t=uj3wPSRK05ARVuXbSO496_v6W9cHlS__dOxNTCgvMnw](https://raw.githubusercontent.com/sivakumar-mahalingam/sivakumar-mahalingam/main/images/1697689678928.jpeg))
+![Alt text](images/header.jpeg)
 
 ### Hi there 👋
 
