@@ -4,6 +4,9 @@
 
 Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
+
+
 🔗 https://medium.com/@sivakumar-mahalingam
 
 🔗 https://www.linkedin.com/in/sivakumar-mahalingam
