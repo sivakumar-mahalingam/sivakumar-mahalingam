@@ -11,6 +11,17 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 
 🔗 https://www.linkedin.com/in/sivakumar-mahalingam
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sivakumar-mahalingam&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sivakumar-mahalingam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
