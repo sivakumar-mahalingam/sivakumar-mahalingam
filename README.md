@@ -4,7 +4,7 @@
 
 Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
 
 
 🔗 https://medium.com/@sivakumar-mahalingam
@@ -17,10 +17,6 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sivakumar-mahalingam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
