@@ -17,7 +17,7 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-| <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
 ---
 
