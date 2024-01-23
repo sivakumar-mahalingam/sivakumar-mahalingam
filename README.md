@@ -12,7 +12,7 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 🔗 https://www.linkedin.com/in/sivakumar-mahalingam
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sivakumar-mahalingam&theme=default&hide_border=false)<br/>
 
 
