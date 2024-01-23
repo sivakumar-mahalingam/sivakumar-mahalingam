@@ -1,6 +1,6 @@
 ![Alt text](images/header.jpeg)
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=000000&background=D9FF6900&vCenter=true&random=false&width=600&lines=Hi+there%F0%9F%91%8B%2C+I'm+SIVAKUMAR+MAHALINGAM;I+assure+you%2C+the+sun+will+shine+on+us+again!)](https://git.io/typing-svg)
 
 Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
