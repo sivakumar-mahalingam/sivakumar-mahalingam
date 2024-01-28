@@ -27,7 +27,7 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 - **Cloud (Azure):** Microsoft Certified: Azure Solutions Architect Expert, Microsoft Certified: Azure Fundamentals, Microsoft Certified: Azure Data Fundamentals
 - **Lean Six Sigma:** LSSGB
 - **Data**: MIT Data Architect Certification, Stanford SQL
-- **Domain** 
+- **Domain** Healthcare Management (AHM 250), Banking Products and Services (CFI)
 
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
