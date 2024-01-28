@@ -24,7 +24,7 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 
 ## Certifications
 - **Cloud (AWS):** AWS Certified Solutions Architect - Professional, AWS Certified Solutions Architect - Associate, AWS Certified Developer - Associate
-- **Cloud (Azure):** Microsoft Certified: Azure Solutions Architect Expert, Microsoft Certified: Azure Fundamentals, Microsoft Certified: Azure Data Fundamentals
+- **Cloud (Microsoft Azure):** Azure Solutions Architect Expert, Azure Fundamentals, Azure Data Fundamentals
 - **Lean Six Sigma:** LSSGB
 - **Data**: MIT Data Architect Certification, Stanford SQL
 - **Domain** Healthcare Management (AHM 250), Banking Products and Services (CFI)
