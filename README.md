@@ -13,12 +13,12 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
     </a>
 </div>
 
-# 📊 GitHub Stats:
-| <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true&theme=transparent" /></a> |
-| ------------- | ------------- |
----
+## 📊GitHub Stats:
 
-## Certifications
+| <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true&theme=transparent" /></a> |
+| -------- | -------- |
+
+## 📜Certifications
 - **Cloud (AWS):** AWS Certified Solutions Architect - Professional, AWS Certified Solutions Architect - Associate, AWS Certified Developer - Associate
 - **Cloud (Microsoft Azure):** Azure Solutions Architect Expert, Azure Fundamentals, Azure Data Fundamentals
 - **Lean Six Sigma:** LSSGB
