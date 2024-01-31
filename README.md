@@ -1,17 +1,17 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sivakumar+Mahalingam!;" />
-</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
 
 ![Alt text](images/header.jpeg)
 
 Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
-
-
-🔗 https://medium.com/@sivakumar-mahalingam
-
-🔗 https://www.linkedin.com/in/sivakumar-mahalingam
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/sivakumar-mahalingam/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.linkedin.com/in/sivakumar-mahalingam/" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    </a>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=true&count_private=true)<br/>
@@ -31,6 +31,10 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sivakumar+Mahalingam!;" />
+</h1>
 
 Here are some ideas to get you started:
 
