@@ -14,10 +14,6 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=true&count_private=true)<br/>
-
-
-
 | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
 ---
@@ -35,6 +31,8 @@ Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azu
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sivakumar+Mahalingam!;" />
 </h1>
+
+![](https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=true&count_private=true)<br/>
 
 Here are some ideas to get you started:
 
