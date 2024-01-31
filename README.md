@@ -1,7 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
 
-![Alt text](images/header.jpeg)
-
+<a href="https://github.com/sivakumar-mahalingam/" target="_blank">
+        <img src="images/header.jpeg" target="_blank" />
+</a>
+    
 Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). 
 
 <div align="center"> 
