@@ -4,7 +4,10 @@
         <img src="images/header.jpeg" target="_blank" />
 </a>
     
-Tech enthusiast. Developed projects in Big Data and Cloud Technologies (AWS, Azure). I am open to any collaboration work.
+- Tech enthusiast
+- Developed projects in Big Data and Cloud Technologies (AWS, Azure)
+- Working on LLM applications
+- I am open to any collaboration work.
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/sivakumar-mahalingam/" target="_blank">
