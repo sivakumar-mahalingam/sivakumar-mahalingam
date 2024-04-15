@@ -9,15 +9,6 @@
 - Working on LLM applications
 - I am open to any collaboration work.
 
-<div align="center"> 
-    <a href="https://www.linkedin.com/in/sivakumar-mahalingam/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://medium.com/@sivakumar-mahalingam/" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-    </a>
-</div>
-
 ## 📊GitHub Stats:
 
 | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar-mahalingam&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=transparent" alt="Sivakumar's github stats" /></a> | <a href="https://github.com/sivakumar-mahalingam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-mahalingam&layout=compact&hide_border=true&theme=transparent" /></a> |
@@ -29,6 +20,15 @@
 - **Lean Six Sigma:** LSSGB
 - **Data**: MIT Data Architect Certification, Stanford SQL
 - **Domain** Healthcare Management (AHM 250), Banking Products and Services (CFI)
+
+## 🤝Connect With Me
+
+ <a href="https://www.linkedin.com/in/sivakumar-mahalingam/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://medium.com/@sivakumar-mahalingam/" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+</a>
 
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
