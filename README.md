@@ -30,6 +30,9 @@
         <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
 </a>
 
+## 🛠️ My Projects
+<a href="https://github.com/sivakumar-mahalingam/fastmrz/" target="_blank"> <img alt="fastmrz" src="./projects/fastmrz.png" height="68" align="left"> </a>
+
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
