@@ -31,8 +31,8 @@
 </a>
 
 ## 🛠️ My Projects
-<a href="https://pypi.org/project/fastmrz/" target="_blank"> <img alt="fastmrz" src="./projects/fastmrz.png" height="68" align="left"> </a>
-<a href="https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/" target="_blank"> <img alt="the-data-engineer-handbook" src="./projects/the-data-engineer-handbook.png" height="68" align="left"> </a>
+<a href="https://github.com/sivakumar-mahalingam/fastmrz" target="_blank"> <img alt="fastmrz" src="./projects/fastmrz.png" height="68" align="left"> </a>
+<a href="https://github.com/sivakumar-mahalingam/the-data-engineer-handbook" target="_blank"> <img alt="the-data-engineer-handbook" src="./projects/the-data-engineer-handbook.png" height="68" align="left"> </a>
 
 <!--
 **sivakumar-mahalingam/sivakumar-mahalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
