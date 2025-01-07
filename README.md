@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sivakumar-mahalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="sivakumar-mahalingam" /> </p>
 
 <a href="https://github.com/sivakumar-mahalingam/" target="_blank">
-        <img src="images/header.jpeg" target="_blank" />
+        <img src="images/header.png" target="_blank" />
 </a>
     
 - Tech enthusiast
